@@ -16,7 +16,7 @@ void main() {
             image: AssetImage('images/diamond.png'),
           ),
         ),
-       ),
+        ),
     ),
   );
 }
